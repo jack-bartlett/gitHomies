@@ -1,5 +1,5 @@
 # gitHomies
-A user provided that they wanted a social media collaboration tool for developers to share their works.
+A social media collaboration tool for developers to connect and share their works. Once a user registers they can log in and add other developers by clicking "add a homie". Then GitHub information on the selected developers can be appended to either a wall or profile page for that developer. The developer's ReadMes are also displayed on the Wall page.
 
  Features include:
 * Automatically pulls project collaborators from gitHub profile and displays them
@@ -11,7 +11,7 @@ A user provided that they wanted a social media collaboration tool for developer
 
 ## gitHomies
 
-[Check it out here!](gh.gitHomies.com)
+[Check it out here!](https://gh.githomies.com/)
 
 >**Picture of the site**
 
